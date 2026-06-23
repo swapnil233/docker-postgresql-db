@@ -1,4 +1,4 @@
-# PostgreSQL Docker Template
+# PostgreSQL Docker Compose Template
 
 A minimal PostgreSQL setup for local development using Docker.
 
